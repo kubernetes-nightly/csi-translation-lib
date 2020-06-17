@@ -152,7 +152,7 @@
 		},
 		{
 			"ImportPath": "github.com/evanphx/json-patch",
-			"Rev": "v4.2.0"
+			"Rev": "e83c0a1c26c8"
 		},
 		{
 			"ImportPath": "github.com/fsnotify/fsnotify",
@@ -540,23 +540,23 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "3364b58af975"
+			"Rev": "2d2160b94313"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "137a109b79a5"
+			"Rev": "4e4e153dfd8a"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "72da344d516d"
+			"Rev": "99b352f442ea"
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider",
-			"Rev": "e6a8be0161f3"
+			"Rev": "94727ffc5c18"
 		},
 		{
 			"ImportPath": "k8s.io/component-base",
-			"Rev": "7e8e63e637bf"
+			"Rev": "0ca39e06e263"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
