@@ -353,6 +353,11 @@ honnef.co/go/tools v0.0.0-20190106161140-3f1c8253044a/go.mod h1:rf3lG4BRIbNafJWh
 honnef.co/go/tools v0.0.0-20190418001031-e561f6794a2a/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.1-2019.2.3/go.mod h1:a3bituU0lyd329TUQxRnasdCoJDkEUEAqEt0JzvZhAg=
+k8s.io/api v0.0.0-20200709080453-0703125312d5/go.mod h1:lIwdYRmRV7GfwcYU6CIBlIIlCFlHGmIhHxmx2yfyu2Q=
+k8s.io/apimachinery v0.0.0-20200709075905-41ce867887f3/go.mod h1:87+lSRzC+mGLZTTwIcPY67sorIVlqPhdNrvsToaUUns=
+k8s.io/client-go v0.0.0-20200709081208-0167675678fd/go.mod h1:9nR5ZkwvTM/+G0vSvJ8ITc1viqx+YCquyeW/JIK4doU=
+k8s.io/cloud-provider v0.0.0-20200709093828-7ad12a00acb0/go.mod h1:oFyb47vopACe+Hjw/vHFvxQpVBGBe08pLie4UHzJCng=
+k8s.io/component-base v0.0.0-20200709082958-8e24a63d4c82/go.mod h1:fZZ+utUncqiSqhLxO3pWryamYRwdOEen8VZJ4mMev4E=
 k8s.io/gengo v0.0.0-20200413195148-3a45101e95ac/go.mod h1:ezvh/TsK7cY6rbqRK0oQQ8IAqLxYwwyPxAX1Pzy0ii0=
 k8s.io/klog/v2 v2.0.0 h1:Foj74zO6RbjjP4hBEKjnYtjjAhGg4jNynUdYF6fJrok=
 k8s.io/klog/v2 v2.0.0/go.mod h1:PBfzABfn139FHAV07az/IF9Wp1bkk3vpT2XSJ76fSDE=
