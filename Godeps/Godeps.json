@@ -540,23 +540,23 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "0703125312d5"
+			"Rev": "99a1d31b47e0"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "41ce867887f3"
+			"Rev": "2de726aac126"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "0167675678fd"
+			"Rev": "87921d038b04"
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider",
-			"Rev": "7ad12a00acb0"
+			"Rev": "9af7aa402e41"
 		},
 		{
 			"ImportPath": "k8s.io/component-base",
-			"Rev": "8e24a63d4c82"
+			"Rev": "24fec59c0746"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
